@@ -107,7 +107,7 @@ h1 {
         <button class="button-design">Klauland</button>
     </a>
     
-    <a href="/js_einfuehrung/index.html">
+    <a href="./js_einfuehrung/index.html">
         <button class="button-design">Klauland</button>
     </a>
     
