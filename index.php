@@ -103,8 +103,14 @@ h1 {
         Navigation Page
     </h1>
 
-
-    <button class="button-design">Klauland</button>
+    <a href="https://klauland.ryufps.de/">
+        <button class="button-design">Klauland</button>
+    </a>
+    
+    <a href="/js_einfuehrung/index.html">
+        <button class="button-design">Klauland</button>
+    </a>
+    
 
     <form method="post">
         <input type="hidden" name="logout" value="1"/>
